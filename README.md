@@ -137,15 +137,6 @@ A campus lending/borrowing and marketplace platform where students list items to
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prerna-4394&show_icons=true&theme=dark&bg_color=0f2027&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-4394&layout=compact&theme=dark&bg_color=0f2027&title_color=64FFDA&text_color=c9d1d9&hide_border=true" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
-
 ## 📫 Connect With Me
 
 <div align="center">
