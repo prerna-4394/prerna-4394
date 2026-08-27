@@ -158,7 +158,7 @@ A full-stack campus marketplace for **peer-to-peer buying, selling, and exchange
 
 <br/>
 
-**🔗 [View Repository](https://github.com/prerna-4394/CampusExchange)**
+**🔗 [View Repository](https://github.com/prerna-4394/Campus_Exchange)**
 
 </td>
 
