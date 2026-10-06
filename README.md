@@ -24,7 +24,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4a1f35,100:8e3a63&height=2" />
 
-## 👋 About Me
+## About Me
 
 I'm an ECE undergraduate at **IGDTUW**, building toward software engineering with a strong focus on **DSA, C++, CS fundamentals, and practical software development**.
 
